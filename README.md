@@ -1,6 +1,7 @@
-# 100-days-kallaway-log
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+# Logs for 100 Day Coding Challenges
 
-[Round 1](R1.md)
+The log of my 100 Days Of Code
 
-[Round 3](R3.md)
+| Round | Started | Ended | Successful |
+| --- | --- | --- | --- |
+| [Round 1](R1.md) | 2024-08-04 | | | 
